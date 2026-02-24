@@ -1,6 +1,6 @@
 # E-Commerce Performance Dashboard - Olist
 
-![Dashboard Preview](Olist_E-commerce_ERD.png)
+![Dashboard Preview](Olist_dashboard_picture.png)
 
 ## 📊 Project Summary
 I developed an interactive Excel dashboard analyzing Brazilian e-commerce performance data from Olist, a leading marketplace connecting small businesses to major channels. The dashboard processes over 96,000 orders totaling £15.49M in revenue, providing comprehensive insights into revenue trends, seller performance, delivery operations, and payment patterns. Using SQL for data extraction and transformation across multiple related tables (customers, products, sellers, payments, deliveries), this end-to-end analytics solution enables stakeholders to monitor key performance indicators and identify operational opportunities. The dashboard features dynamic visualizations for trend analysis, seller concentration metrics, delivery performance by state, and payment installment correlations to support data-driven business decisions in the e-commerce marketplace sector.
